@@ -1,4 +1,4 @@
-# Trilha de aprendizado
+# Trilha do conhecimento
 
 Olá pessoal,
 Este repositório tem como principal intuito ajudar aqueles que buscam mais conhecimento na área de programação.
