@@ -14,3 +14,6 @@ Sintam se à vontade para deixar sua critica ou sugestão.
 <a href="https://github.com/RanyerLopes/mentor-digital" target="_blank">Mentor Digital</a> - por <a href="https://github.com/chidekina" target="_blank">Cesar Hideki</a>
 
 <a href="https://www.notion.so/README-md-Seu-curr-culo-disfar-ado-no-GitHub-1e40adae9d028021a2b7d33102da4005" target="_blank"README.md – Seu currículo disfarçado no GitHub</a> - por <a href="https://github.com/GabrielCordeiroBarrosoTeles" target="_blank">Gabriel Cordeiro</a>
+
+<a href="https://github.com/chidekina/trilha-do-conhecimento/blob/main/recomendacoes/cursor.md" target="_blank">Cursor IDE</a> - por <a href="https://github.com/ArielRSousa" target="_blank">Ariel Sousa</a>
+https://github.com/chidekina/trilha-do-conhecimento/blob/main/recomendacoes/cursor.md
